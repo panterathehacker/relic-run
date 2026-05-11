@@ -29,13 +29,6 @@ The catch? Some relics are hidden. Some are floating out of reach. And the world
 
 ---
 
-## Characters
-
-- **Ben** — a cat in World 1, named after [Ben Mildenhall](https://bmild.github.io/). Say hi.
-- **Ben Jr.** — a dog in World 2. Same energy.
-- **Ben Sr.** — a dog in World 3. Walking in a perfect circle, which was harder to implement than you'd expect.
-
----
 
 ## Controls
 
