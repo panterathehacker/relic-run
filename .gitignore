@@ -1,0 +1,32 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# Secrets — never commit
+.env
+
+# World assets (large binaries — download via tools/)
+public/worlds/
+world-assets.json
+
+# Audio stems (generated/licensed — add separately if needed)
+public/audio/world1/
+public/audio/world2/
+public/audio/world3/
+
+# Internal / private
+.claude/
+LIGHTKEEPER_*.md
+Marble_World_Labs_Knowledge_Base.md
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,22 @@
+{
+  "name": "lightkeeper",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2",
+    "vite": "^8.0.1"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "^0.19.3",
+    "@sparkjsdev/spark": "github:sparkjsdev/spark#v2.0.0-preview",
+    "howler": "^2.2.4",
+    "postprocessing": "^6.39.0",
+    "three": "^0.183.2"
+  }
+}
